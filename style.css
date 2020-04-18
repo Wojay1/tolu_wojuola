@@ -1,0 +1,57 @@
+header{
+	background-color: pink;
+	width: 100%;
+	height:200px;
+	padding: -10;
+	margin: -10;
+}
+
+.main{
+	color: #151516;
+	display: flex;
+    justify-content: center;
+}
+	
+   
+
+}
+h2 {
+	padding-top: 70px;
+	text-align: center;
+	font-family: constantia;
+}
+.text1hold{
+	display: flex;
+    justify-content: center;
+}
+.text2hold{
+	display: flex;
+    justify-content: center;
+}
+
+.text1{
+	font-size: 22px;
+	padding-top: 40px;
+	font-family: constantia;
+	margin-left:  60px;
+	margin-right: 60px;
+	line-height: 40px;
+	width: 800px;
+	
+}
+
+.divider{
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+.text2{
+	font-size: 22px;
+	padding-top: 40px;
+	font-family: constantia;
+	margin-left:  60px;
+	margin-right: 60px;
+	line-height: 40px;
+	width: 800px;
+	
+}
