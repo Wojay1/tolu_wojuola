@@ -1,57 +1,134 @@
 header{
-	background-color: pink;
+	background-color: pink
 	width: 100%;
 	height:200px;
-	padding: -10;
-	margin: -10;
-}
+	padding: 50px
+	margin: 100;
+       }
 
 .main{
-	color: #151516;
-	display: flex;
-    justify-content: center;
-}
+	color: #545454;
+	text-decoration-color: #db9200;
+
 	
    
 
 }
-h2 {
+h1 {
+	color: #545454;
 	padding-top: 70px;
 	text-align: center;
-	font-family: constantia;
+	font-family: rage;
+	
 }
-.text1hold{
-	display: flex;
-    justify-content: center;
-}
-.text2hold{
-	display: flex;
-    justify-content: center;
-}
+
+a{
+	color: #db9200;
+  }
+
+
 
 .text1{
 	font-size: 22px;
-	padding-top: 40px;
 	font-family: constantia;
 	margin-left:  60px;
 	margin-right: 60px;
 	line-height: 40px;
 	width: 800px;
 	
-}
+
+         }
 
 .divider{
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	width: 260px;
+	margin-left:  60px;
+	margin-right: 60px;
 
-}
+           }
 .text2{
 	font-size: 22px;
-	padding-top: 40px;
 	font-family: constantia;
 	margin-left:  60px;
 	margin-right: 60px;
 	line-height: 40px;
 	width: 800px;
 	
+	
+         }
+.text1hold{
+	display: flex;
+    justify-content: center;
+             }
+
+.text2hold{
+	display: flex;
+    justify-content: center;
+             }
+
+ .divhold{
+ 	display: flex;
+    justify-content: center;
+
+          }            
+.divider2{
+	padding-top: 60px;
+	padding-bottom: 60px;
+	width: 260px;
+	margin-left:  60px;
+	margin-right: 60px;
+
+ }
+ .divhold2{
+ 	display: flex;
+    justify-content: center;
+}
+ 	
+img{
+	height: 300px;
+	width: 240px;
+	margin: 20px;
+	text-align: center;
+}
+
+.imghold{
+	display: flex;
+    justify-content: center;
+
+}
+
+.bottomhold{
+	display: flex;
+    justify-content: center;
+    text-align: center;
+	
+}
+
+form{
+	width: 250px;
+	margin: 30px;
+	
+	
+	
+
+}
+input{
+	background-color: #f7cc81;
+	width: 240px;
+	height: 33px;
+	font-size: 9px;
+	margin-top: 4px;
+	
+	border-style: solid;
+	color: #545454;
+	border-color:white;
+	text-indent: 8px;
+	margin-left: -1px;
+	text-align: center;
+}
+
+.bottom{
+	margin-left: 30px;
+	color: #545454;
 }
